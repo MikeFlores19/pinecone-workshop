@@ -12,7 +12,7 @@ Aprende a usar Pinecone desde cero: desde la conexión básica hasta construir u
 
 ```
 dev_pinecone/
-├── .env                          # API keys (nunca en git)
+├── .env                          # API keys 
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
